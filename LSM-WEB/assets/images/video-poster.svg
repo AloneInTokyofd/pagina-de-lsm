@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<defs><radialGradient id="g"><stop stop-color="#29477f"/><stop offset="1" stop-color="#101b3b"/></radialGradient></defs>
+<rect width="1280" height="720" fill="url(#g)"/>
+<circle cx="640" cy="300" r="76" fill="none" stroke="#6be0cf" stroke-width="3" opacity=".8"/>
+<path d="M615 260v80l65-40z" fill="#6be0cf"/>
+<text x="640" y="445" fill="#fff" font-family="Arial,sans-serif" font-size="38" text-anchor="middle" font-weight="bold">DEMOSTRACIÓN DEL SISTEMA LSM</text>
+<text x="640" y="495" fill="#b8c5e4" font-family="Arial,sans-serif" font-size="22" text-anchor="middle">Laboratorio de Inteligencia Artificial · CECyT 16</text>
+</svg>
